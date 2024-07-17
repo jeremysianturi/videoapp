@@ -1,0 +1,275 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.bythen"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml
+10
+11    <uses-feature
+11-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:6:5-8:36
+12        android:name="android.hardware.camera"
+12-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:7:9-47
+13        android:required="false" />
+13-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:8:9-33
+14
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:10:5-65
+15-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:10:22-62
+16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+16-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:11:5-71
+16-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:11:22-68
+17    <uses-permission
+17-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:12:5-13:38
+18        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+18-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:12:22-78
+19        android:maxSdkVersion="32" />
+19-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:13:9-35
+20    <uses-permission
+20-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:14:5-15:38
+21        android:name="android.permission.READ_EXTERNAL_STORAGE"
+21-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:14:22-77
+22        android:maxSdkVersion="32" />
+22-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:15:9-35
+23    <uses-permission android:name="android.permission.INTERNET" />
+23-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:16:5-67
+23-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:16:22-64
+24
+25    <queries>
+25-->[androidx.camera:camera-extensions:1.2.2] /Users/jeremysianturi/.gradle/caches/transforms-3/c0e2b3b72dc705b745c3eb0a7cfd6549/transformed/camera-extensions-1.2.2/AndroidManifest.xml:22:5-26:15
+26        <intent>
+26-->[androidx.camera:camera-extensions:1.2.2] /Users/jeremysianturi/.gradle/caches/transforms-3/c0e2b3b72dc705b745c3eb0a7cfd6549/transformed/camera-extensions-1.2.2/AndroidManifest.xml:23:9-25:18
+27            <action android:name="androidx.camera.extensions.action.VENDOR_ACTION" />
+27-->[androidx.camera:camera-extensions:1.2.2] /Users/jeremysianturi/.gradle/caches/transforms-3/c0e2b3b72dc705b745c3eb0a7cfd6549/transformed/camera-extensions-1.2.2/AndroidManifest.xml:24:13-86
+27-->[androidx.camera:camera-extensions:1.2.2] /Users/jeremysianturi/.gradle/caches/transforms-3/c0e2b3b72dc705b745c3eb0a7cfd6549/transformed/camera-extensions-1.2.2/AndroidManifest.xml:24:21-83
+28        </intent>
+29    </queries>
+30
+31    <uses-permission android:name="android.permission.REORDER_TASKS" />
+31-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:24:5-72
+31-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:24:22-69
+32    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+32-->[com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/jeremysianturi/.gradle/caches/transforms-3/35bae4eefd5afa16d2fb55a0af1a51de/transformed/exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+32-->[com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/jeremysianturi/.gradle/caches/transforms-3/35bae4eefd5afa16d2fb55a0af1a51de/transformed/exoplayer-core-2.18.1/AndroidManifest.xml:24:22-76
+33
+34    <permission
+34-->[androidx.core:core:1.11.0-alpha01] /Users/jeremysianturi/.gradle/caches/transforms-3/e9c16601e71dbc60502ba16c63fea776/transformed/core-1.11.0-alpha01/AndroidManifest.xml:22:5-24:47
+35        android:name="com.example.bythen.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+35-->[androidx.core:core:1.11.0-alpha01] /Users/jeremysianturi/.gradle/caches/transforms-3/e9c16601e71dbc60502ba16c63fea776/transformed/core-1.11.0-alpha01/AndroidManifest.xml:23:9-81
+36        android:protectionLevel="signature" />
+36-->[androidx.core:core:1.11.0-alpha01] /Users/jeremysianturi/.gradle/caches/transforms-3/e9c16601e71dbc60502ba16c63fea776/transformed/core-1.11.0-alpha01/AndroidManifest.xml:24:9-44
+37
+38    <uses-permission android:name="com.example.bythen.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+38-->[androidx.core:core:1.11.0-alpha01] /Users/jeremysianturi/.gradle/caches/transforms-3/e9c16601e71dbc60502ba16c63fea776/transformed/core-1.11.0-alpha01/AndroidManifest.xml:26:5-97
+38-->[androidx.core:core:1.11.0-alpha01] /Users/jeremysianturi/.gradle/caches/transforms-3/e9c16601e71dbc60502ba16c63fea776/transformed/core-1.11.0-alpha01/AndroidManifest.xml:26:22-94
+39
+40    <application
+40-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:18:5-44:19
+41        android:name="com.example.bythen.MyApplication"
+41-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:19:9-38
+42        android:allowBackup="true"
+42-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:20:9-35
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.11.0-alpha01] /Users/jeremysianturi/.gradle/caches/transforms-3/e9c16601e71dbc60502ba16c63fea776/transformed/core-1.11.0-alpha01/AndroidManifest.xml:28:18-86
+44        android:debuggable="true"
+45        android:icon="@mipmap/ic_launcher"
+45-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:21:9-43
+46        android:label="@string/app_name"
+46-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:22:9-41
+47        android:roundIcon="@mipmap/ic_launcher_round"
+47-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:23:9-54
+48        android:supportsRtl="true"
+48-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:24:9-35
+49        android:testOnly="true"
+50        android:theme="@style/Theme.Bythen" >
+50-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:25:9-44
+51        <activity
+51-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:26:9-34:20
+52            android:name="com.example.bythen.MainActivity"
+52-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:27:13-41
+53            android:exported="true"
+53-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:28:13-36
+54            android:theme="@style/Theme.Bythen" >
+54-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:29:13-48
+55            <intent-filter>
+55-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:30:13-33:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:31:17-69
+56-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:31:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:32:17-77
+58-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:32:27-74
+59            </intent-filter>
+60        </activity>
+61
+62        <provider
+63            android:name="androidx.core.content.FileProvider"
+63-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:36:13-62
+64            android:authorities="com.example.bythen.provider"
+64-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:37:13-60
+65            android:exported="false"
+65-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:38:13-37
+66            android:grantUriPermissions="true" >
+66-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:39:13-47
+67            <meta-data
+67-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:40:13-42:54
+68                android:name="android.support.FILE_PROVIDER_PATHS"
+68-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:41:17-67
+69                android:resource="@xml/file_paths" />
+69-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:42:17-51
+70        </provider>
+71
+72        <uses-library
+72-->[androidx.camera:camera-extensions:1.2.2] /Users/jeremysianturi/.gradle/caches/transforms-3/c0e2b3b72dc705b745c3eb0a7cfd6549/transformed/camera-extensions-1.2.2/AndroidManifest.xml:29:9-31:40
+73            android:name="androidx.camera.extensions.impl"
+73-->[androidx.camera:camera-extensions:1.2.2] /Users/jeremysianturi/.gradle/caches/transforms-3/c0e2b3b72dc705b745c3eb0a7cfd6549/transformed/camera-extensions-1.2.2/AndroidManifest.xml:30:13-59
+74            android:required="false" />
+74-->[androidx.camera:camera-extensions:1.2.2] /Users/jeremysianturi/.gradle/caches/transforms-3/c0e2b3b72dc705b745c3eb0a7cfd6549/transformed/camera-extensions-1.2.2/AndroidManifest.xml:31:13-37
+75
+76        <service
+76-->[androidx.camera:camera-camera2:1.2.2] /Users/jeremysianturi/.gradle/caches/transforms-3/9336cd413dc9acc17fedce8f8bbdddd6/transformed/camera-camera2-1.2.2/AndroidManifest.xml:24:9-33:19
+77            android:name="androidx.camera.core.impl.MetadataHolderService"
+77-->[androidx.camera:camera-camera2:1.2.2] /Users/jeremysianturi/.gradle/caches/transforms-3/9336cd413dc9acc17fedce8f8bbdddd6/transformed/camera-camera2-1.2.2/AndroidManifest.xml:25:13-75
+78            android:enabled="false"
+78-->[androidx.camera:camera-camera2:1.2.2] /Users/jeremysianturi/.gradle/caches/transforms-3/9336cd413dc9acc17fedce8f8bbdddd6/transformed/camera-camera2-1.2.2/AndroidManifest.xml:26:13-36
+79            android:exported="false" >
+79-->[androidx.camera:camera-camera2:1.2.2] /Users/jeremysianturi/.gradle/caches/transforms-3/9336cd413dc9acc17fedce8f8bbdddd6/transformed/camera-camera2-1.2.2/AndroidManifest.xml:27:13-37
+80            <meta-data
+80-->[androidx.camera:camera-camera2:1.2.2] /Users/jeremysianturi/.gradle/caches/transforms-3/9336cd413dc9acc17fedce8f8bbdddd6/transformed/camera-camera2-1.2.2/AndroidManifest.xml:30:13-32:89
+81                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+81-->[androidx.camera:camera-camera2:1.2.2] /Users/jeremysianturi/.gradle/caches/transforms-3/9336cd413dc9acc17fedce8f8bbdddd6/transformed/camera-camera2-1.2.2/AndroidManifest.xml:31:17-103
+82                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+82-->[androidx.camera:camera-camera2:1.2.2] /Users/jeremysianturi/.gradle/caches/transforms-3/9336cd413dc9acc17fedce8f8bbdddd6/transformed/camera-camera2-1.2.2/AndroidManifest.xml:32:17-86
+83        </service>
+84
+85        <provider
+85-->[androidx.emoji2:emoji2:1.4.0-alpha01] /Users/jeremysianturi/.gradle/caches/transforms-3/faee02ef11a8f5aa051d895bdaf7cf38/transformed/emoji2-1.4.0-alpha01/AndroidManifest.xml:24:9-32:20
+86            android:name="androidx.startup.InitializationProvider"
+86-->[androidx.emoji2:emoji2:1.4.0-alpha01] /Users/jeremysianturi/.gradle/caches/transforms-3/faee02ef11a8f5aa051d895bdaf7cf38/transformed/emoji2-1.4.0-alpha01/AndroidManifest.xml:25:13-67
+87            android:authorities="com.example.bythen.androidx-startup"
+87-->[androidx.emoji2:emoji2:1.4.0-alpha01] /Users/jeremysianturi/.gradle/caches/transforms-3/faee02ef11a8f5aa051d895bdaf7cf38/transformed/emoji2-1.4.0-alpha01/AndroidManifest.xml:26:13-68
+88            android:exported="false" >
+88-->[androidx.emoji2:emoji2:1.4.0-alpha01] /Users/jeremysianturi/.gradle/caches/transforms-3/faee02ef11a8f5aa051d895bdaf7cf38/transformed/emoji2-1.4.0-alpha01/AndroidManifest.xml:27:13-37
+89            <meta-data
+89-->[androidx.emoji2:emoji2:1.4.0-alpha01] /Users/jeremysianturi/.gradle/caches/transforms-3/faee02ef11a8f5aa051d895bdaf7cf38/transformed/emoji2-1.4.0-alpha01/AndroidManifest.xml:29:13-31:52
+90                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+90-->[androidx.emoji2:emoji2:1.4.0-alpha01] /Users/jeremysianturi/.gradle/caches/transforms-3/faee02ef11a8f5aa051d895bdaf7cf38/transformed/emoji2-1.4.0-alpha01/AndroidManifest.xml:30:17-75
+91                android:value="androidx.startup" />
+91-->[androidx.emoji2:emoji2:1.4.0-alpha01] /Users/jeremysianturi/.gradle/caches/transforms-3/faee02ef11a8f5aa051d895bdaf7cf38/transformed/emoji2-1.4.0-alpha01/AndroidManifest.xml:31:17-49
+92            <meta-data
+92-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/28dbd70ac46587e5d767890b1eab21cc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+93                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+93-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/28dbd70ac46587e5d767890b1eab21cc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+94                android:value="androidx.startup" />
+94-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/28dbd70ac46587e5d767890b1eab21cc/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+95            <meta-data
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+96                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+97                android:value="androidx.startup" />
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+98        </provider>
+99
+100        <activity
+100-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:27:9-34:20
+101            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+101-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:28:13-99
+102            android:exported="true"
+102-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:29:13-36
+103            android:theme="@style/WhiteBackgroundTheme" >
+103-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:30:13-56
+104            <intent-filter android:priority="-100" >
+104-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:31:13-33:29
+104-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:31:28-51
+105                <category android:name="android.intent.category.LAUNCHER" />
+105-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:32:17-77
+105-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:32:27-74
+106            </intent-filter>
+107        </activity>
+108        <activity
+108-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:35:9-42:20
+109            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+109-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:36:13-95
+110            android:exported="true"
+110-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:37:13-36
+111            android:theme="@style/WhiteBackgroundTheme" >
+111-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:38:13-56
+112            <intent-filter android:priority="-100" >
+112-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:31:13-33:29
+112-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:31:28-51
+113                <category android:name="android.intent.category.LAUNCHER" />
+113-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:32:17-77
+113-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:32:27-74
+114            </intent-filter>
+115        </activity>
+116        <activity
+116-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:43:9-50:20
+117            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+117-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:44:13-103
+118            android:exported="true"
+118-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:45:13-36
+119            android:theme="@style/WhiteBackgroundDialogTheme" >
+119-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:46:13-62
+120            <intent-filter android:priority="-100" >
+120-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:31:13-33:29
+120-->[androidx.test:core:1.6.1] /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/AndroidManifest.xml:31:28-51
+121                <category android:name="android.intent.category.LAUNCHER" />
+121-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:32:17-77
+121-->/Users/jeremysianturi/Downloads/bythen2 2/app/src/main/AndroidManifest.xml:32:27-74
+122            </intent-filter>
+123        </activity>
+124
+125        <service
+125-->[androidx.room:room-runtime:2.5.1] /Users/jeremysianturi/.gradle/caches/transforms-3/c461961c09f265b118e12e2ccd8cb78a/transformed/room-runtime-2.5.1/AndroidManifest.xml:24:9-28:63
+126            android:name="androidx.room.MultiInstanceInvalidationService"
+126-->[androidx.room:room-runtime:2.5.1] /Users/jeremysianturi/.gradle/caches/transforms-3/c461961c09f265b118e12e2ccd8cb78a/transformed/room-runtime-2.5.1/AndroidManifest.xml:25:13-74
+127            android:directBootAware="true"
+127-->[androidx.room:room-runtime:2.5.1] /Users/jeremysianturi/.gradle/caches/transforms-3/c461961c09f265b118e12e2ccd8cb78a/transformed/room-runtime-2.5.1/AndroidManifest.xml:26:13-43
+128            android:exported="false" />
+128-->[androidx.room:room-runtime:2.5.1] /Users/jeremysianturi/.gradle/caches/transforms-3/c461961c09f265b118e12e2ccd8cb78a/transformed/room-runtime-2.5.1/AndroidManifest.xml:27:13-37
+129
+130        <receiver
+130-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+131            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+131-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+132            android:directBootAware="false"
+132-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+133            android:enabled="true"
+133-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+134            android:exported="true"
+134-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+135            android:permission="android.permission.DUMP" >
+135-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+136            <intent-filter>
+136-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+137                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+137-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+137-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+138            </intent-filter>
+139            <intent-filter>
+139-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+140                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+140-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+140-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+141            </intent-filter>
+142            <intent-filter>
+142-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+143                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+143-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+143-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+144            </intent-filter>
+145            <intent-filter>
+145-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+146                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+146-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+146-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+147            </intent-filter>
+148        </receiver>
+149    </application>
+150
+151</manifest>

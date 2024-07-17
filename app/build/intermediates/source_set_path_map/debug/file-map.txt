@@ -1,0 +1,70 @@
+com.example.bythen.app-ui-util-1.5.0-alpha01-0 /Users/jeremysianturi/.gradle/caches/transforms-3/00b0c26fa23f28ec9b2aed32b211db42/transformed/ui-util-1.5.0-alpha01/res
+com.example.bythen.app-appcompat-resources-1.1.0-1 /Users/jeremysianturi/.gradle/caches/transforms-3/017187d645f51671ffaeab91ff6ad1ae/transformed/appcompat-resources-1.1.0/res
+com.example.bythen.app-animation-1.2.1-2 /Users/jeremysianturi/.gradle/caches/transforms-3/08348f48f18b99b5295c603d8ab0c1b5/transformed/animation-1.2.1/res
+com.example.bythen.app-navigation-runtime-ktx-2.6.0-3 /Users/jeremysianturi/.gradle/caches/transforms-3/0b69ee02f527d931a1e496367609736e/transformed/navigation-runtime-ktx-2.6.0/res
+com.example.bythen.app-exoplayer-ui-2.18.1-4 /Users/jeremysianturi/.gradle/caches/transforms-3/0e2dc39dc34438e4894ca4a67d4eeb6f/transformed/exoplayer-ui-2.18.1/res
+com.example.bythen.app-runtime-livedata-1.5.0-alpha01-5 /Users/jeremysianturi/.gradle/caches/transforms-3/0f31f1f91322d835680450649e61a66b/transformed/runtime-livedata-1.5.0-alpha01/res
+com.example.bythen.app-navigation-common-2.6.0-6 /Users/jeremysianturi/.gradle/caches/transforms-3/1601ac02375cfb2c0bacfea175175565/transformed/navigation-common-2.6.0/res
+com.example.bythen.app-core-runtime-2.2.0-7 /Users/jeremysianturi/.gradle/caches/transforms-3/207deec07eadc70daff47ec6dcd5e869/transformed/core-runtime-2.2.0/res
+com.example.bythen.app-media-1.4.3-8 /Users/jeremysianturi/.gradle/caches/transforms-3/248d2db22a17e933b9328322fc82de3f/transformed/media-1.4.3/res
+com.example.bythen.app-activity-1.7.2-9 /Users/jeremysianturi/.gradle/caches/transforms-3/277c78642d49fd0fd92bd1dffe202c5f/transformed/activity-1.7.2/res
+com.example.bythen.app-lifecycle-process-2.6.1-10 /Users/jeremysianturi/.gradle/caches/transforms-3/28dbd70ac46587e5d767890b1eab21cc/transformed/lifecycle-process-2.6.1/res
+com.example.bythen.app-lifecycle-viewmodel-ktx-2.6.1-11 /Users/jeremysianturi/.gradle/caches/transforms-3/31958334fb877b9aa079a55fb4773fb8/transformed/lifecycle-viewmodel-ktx-2.6.1/res
+com.example.bythen.app-camera-view-1.2.2-12 /Users/jeremysianturi/.gradle/caches/transforms-3/31e4b40beda15a0f436bba90f851b41c/transformed/camera-view-1.2.2/res
+com.example.bythen.app-exoplayer-core-2.18.1-13 /Users/jeremysianturi/.gradle/caches/transforms-3/35bae4eefd5afa16d2fb55a0af1a51de/transformed/exoplayer-core-2.18.1/res
+com.example.bythen.app-ui-graphics-1.5.0-alpha01-14 /Users/jeremysianturi/.gradle/caches/transforms-3/447a246f89e36a6ca551605705dd405b/transformed/ui-graphics-1.5.0-alpha01/res
+com.example.bythen.app-material-icons-core-1.4.3-15 /Users/jeremysianturi/.gradle/caches/transforms-3/4485bd0843f769be7671d60e2d759f37/transformed/material-icons-core-1.4.3/res
+com.example.bythen.app-sqlite-2.3.1-16 /Users/jeremysianturi/.gradle/caches/transforms-3/454d4a0c7075068b5ca278665c7564a9/transformed/sqlite-2.3.1/res
+com.example.bythen.app-runtime-1.5.0-alpha01-17 /Users/jeremysianturi/.gradle/caches/transforms-3/488b0355fbe268bc2e7558fe93e1e732/transformed/runtime-1.5.0-alpha01/res
+com.example.bythen.app-lifecycle-viewmodel-2.6.1-18 /Users/jeremysianturi/.gradle/caches/transforms-3/50bee00b588c60096901af0c977ac2b5/transformed/lifecycle-viewmodel-2.6.1/res
+com.example.bythen.app-ui-text-1.5.0-alpha01-19 /Users/jeremysianturi/.gradle/caches/transforms-3/52653ee0b1ec0f6da1d924af1391792c/transformed/ui-text-1.5.0-alpha01/res
+com.example.bythen.app-animation-core-1.2.1-20 /Users/jeremysianturi/.gradle/caches/transforms-3/59d51ff50ff522e668fdf3bb06aadc60/transformed/animation-core-1.2.1/res
+com.example.bythen.app-fragment-1.5.1-21 /Users/jeremysianturi/.gradle/caches/transforms-3/5e3a9657dd541f1cffb34d16918fccee/transformed/fragment-1.5.1/res
+com.example.bythen.app-lifecycle-livedata-core-2.6.1-22 /Users/jeremysianturi/.gradle/caches/transforms-3/647377e931b378b8f8c66d99608b101e/transformed/lifecycle-livedata-core-2.6.1/res
+com.example.bythen.app-profileinstaller-1.3.0-23 /Users/jeremysianturi/.gradle/caches/transforms-3/64d7554d65cb7b2f283b4bc2a0ffc3e5/transformed/profileinstaller-1.3.0/res
+com.example.bythen.app-customview-poolingcontainer-1.0.0-24 /Users/jeremysianturi/.gradle/caches/transforms-3/6718df501a4a121dec669e310a746592/transformed/customview-poolingcontainer-1.0.0/res
+com.example.bythen.app-core-1.6.1-25 /Users/jeremysianturi/.gradle/caches/transforms-3/6c319e5316392e13294df430c1536937/transformed/core-1.6.1/res
+com.example.bythen.app-material-1.4.3-26 /Users/jeremysianturi/.gradle/caches/transforms-3/74b35116ffb056dbd8791441fad840ac/transformed/material-1.4.3/res
+com.example.bythen.app-savedstate-ktx-1.2.1-27 /Users/jeremysianturi/.gradle/caches/transforms-3/82b57a690aed3fa9c097046ca08d34f7/transformed/savedstate-ktx-1.2.1/res
+com.example.bythen.app-foundation-1.5.0-alpha01-28 /Users/jeremysianturi/.gradle/caches/transforms-3/884ef1bae85b9222c78f57305dd12456/transformed/foundation-1.5.0-alpha01/res
+com.example.bythen.app-lifecycle-runtime-2.6.1-29 /Users/jeremysianturi/.gradle/caches/transforms-3/89abf45f92bcbc73c351d72203897af5/transformed/lifecycle-runtime-2.6.1/res
+com.example.bythen.app-material3-1.0.1-30 /Users/jeremysianturi/.gradle/caches/transforms-3/8a44f695ab43b3e668d4fd847bb00951/transformed/material3-1.0.1/res
+com.example.bythen.app-camera-core-1.2.2-31 /Users/jeremysianturi/.gradle/caches/transforms-3/90ed36e51b7157d51e74b62700b629f5/transformed/camera-core-1.2.2/res
+com.example.bythen.app-camera-camera2-1.2.2-32 /Users/jeremysianturi/.gradle/caches/transforms-3/9336cd413dc9acc17fedce8f8bbdddd6/transformed/camera-camera2-1.2.2/res
+com.example.bythen.app-appcompat-1.1.0-33 /Users/jeremysianturi/.gradle/caches/transforms-3/9870d19f6f20f50a5a0ebb3efc38b012/transformed/appcompat-1.1.0/res
+com.example.bythen.app-lifecycle-viewmodel-compose-2.6.1-34 /Users/jeremysianturi/.gradle/caches/transforms-3/a4eed4532557e0cc8c2adce3e0a3e7f5/transformed/lifecycle-viewmodel-compose-2.6.1/res
+com.example.bythen.app-foundation-layout-1.5.0-alpha01-35 /Users/jeremysianturi/.gradle/caches/transforms-3/a6b0a64ee243c684aba8d7efeb8561b0/transformed/foundation-layout-1.5.0-alpha01/res
+com.example.bythen.app-activity-ktx-1.7.2-36 /Users/jeremysianturi/.gradle/caches/transforms-3/a8c78b71ff7f929c1646067ecf66001c/transformed/activity-ktx-1.7.2/res
+com.example.bythen.app-room-ktx-2.5.1-37 /Users/jeremysianturi/.gradle/caches/transforms-3/a95f05549327dea773291798118215a0/transformed/room-ktx-2.5.1/res
+com.example.bythen.app-startup-runtime-1.1.1-38 /Users/jeremysianturi/.gradle/caches/transforms-3/adb2fce99d154d4834540df6466ea979/transformed/startup-runtime-1.1.1/res
+com.example.bythen.app-lifecycle-viewmodel-savedstate-2.6.1-39 /Users/jeremysianturi/.gradle/caches/transforms-3/bb2ce556193803c4d285de2c2cb1816a/transformed/lifecycle-viewmodel-savedstate-2.6.1/res
+com.example.bythen.app-sqlite-framework-2.3.1-40 /Users/jeremysianturi/.gradle/caches/transforms-3/bc480720e7113ffddfa8f7b078d2d7c9/transformed/sqlite-framework-2.3.1/res
+com.example.bythen.app-navigation-compose-2.6.0-41 /Users/jeremysianturi/.gradle/caches/transforms-3/c0b1ac64d11fc5d3df345dc6d5e68958/transformed/navigation-compose-2.6.0/res
+com.example.bythen.app-camera-extensions-1.2.2-42 /Users/jeremysianturi/.gradle/caches/transforms-3/c0e2b3b72dc705b745c3eb0a7cfd6549/transformed/camera-extensions-1.2.2/res
+com.example.bythen.app-room-runtime-2.5.1-43 /Users/jeremysianturi/.gradle/caches/transforms-3/c461961c09f265b118e12e2ccd8cb78a/transformed/room-runtime-2.5.1/res
+com.example.bythen.app-lifecycle-livedata-2.6.1-44 /Users/jeremysianturi/.gradle/caches/transforms-3/cf2b15ed0e0c33339edfd273e546579c/transformed/lifecycle-livedata-2.6.1/res
+com.example.bythen.app-ui-tooling-preview-1.5.0-alpha01-45 /Users/jeremysianturi/.gradle/caches/transforms-3/d19aa677d1282afb597100ee2288cfaa/transformed/ui-tooling-preview-1.5.0-alpha01/res
+com.example.bythen.app-runtime-saveable-1.5.0-alpha01-46 /Users/jeremysianturi/.gradle/caches/transforms-3/d1fcbda23496c4502f6251d86b1a14bb/transformed/runtime-saveable-1.5.0-alpha01/res
+com.example.bythen.app-core-ktx-1.11.0-alpha01-47 /Users/jeremysianturi/.gradle/caches/transforms-3/d3a4adeb41c048dd801632bfcf9328b6/transformed/core-ktx-1.11.0-alpha01/res
+com.example.bythen.app-navigation-common-ktx-2.6.0-48 /Users/jeremysianturi/.gradle/caches/transforms-3/d65db5723cd2dfbbfd0ee66674553ac9/transformed/navigation-common-ktx-2.6.0/res
+com.example.bythen.app-activity-compose-1.7.2-49 /Users/jeremysianturi/.gradle/caches/transforms-3/d875fb14a40b4d6fcfb035c413f936e0/transformed/activity-compose-1.7.2/res
+com.example.bythen.app-recyclerview-1.2.1-50 /Users/jeremysianturi/.gradle/caches/transforms-3/d8c62dd821bbe8490fb9c972d70ccd24/transformed/recyclerview-1.2.1/res
+com.example.bythen.app-ui-unit-1.5.0-alpha01-51 /Users/jeremysianturi/.gradle/caches/transforms-3/dbfe8400b7f85f9f3516c504344739b4/transformed/ui-unit-1.5.0-alpha01/res
+com.example.bythen.app-material-ripple-1.4.3-52 /Users/jeremysianturi/.gradle/caches/transforms-3/e022032d6e49d5016dc8de8fc058c22e/transformed/material-ripple-1.4.3/res
+com.example.bythen.app-navigation-runtime-2.6.0-53 /Users/jeremysianturi/.gradle/caches/transforms-3/e0efa5d7e930fea0a66418c266095aaf/transformed/navigation-runtime-2.6.0/res
+com.example.bythen.app-ui-geometry-1.5.0-alpha01-54 /Users/jeremysianturi/.gradle/caches/transforms-3/e170feb1e15255c59bf621c896deb56a/transformed/ui-geometry-1.5.0-alpha01/res
+com.example.bythen.app-annotation-experimental-1.3.0-55 /Users/jeremysianturi/.gradle/caches/transforms-3/e1db99a0a0f67ca4a4fa2fb250d8db8d/transformed/annotation-experimental-1.3.0/res
+com.example.bythen.app-tracing-1.1.0-56 /Users/jeremysianturi/.gradle/caches/transforms-3/e3349863234724304f3d403c6fc0b44a/transformed/tracing-1.1.0/res
+com.example.bythen.app-camera-video-1.2.2-57 /Users/jeremysianturi/.gradle/caches/transforms-3/e40e11f627591a452870f15b33883e35/transformed/camera-video-1.2.2/res
+com.example.bythen.app-core-1.11.0-alpha01-58 /Users/jeremysianturi/.gradle/caches/transforms-3/e9c16601e71dbc60502ba16c63fea776/transformed/core-1.11.0-alpha01/res
+com.example.bythen.app-ui-1.5.0-alpha01-59 /Users/jeremysianturi/.gradle/caches/transforms-3/f38d5d6c1a5f6d14e9406b7cdfc52986/transformed/ui-1.5.0-alpha01/res
+com.example.bythen.app-savedstate-1.2.1-60 /Users/jeremysianturi/.gradle/caches/transforms-3/f6142c3f4ae4fa3722f4fba29af34e3c/transformed/savedstate-1.2.1/res
+com.example.bythen.app-lifecycle-runtime-ktx-2.6.1-61 /Users/jeremysianturi/.gradle/caches/transforms-3/fab6e1e66cebef33487a203882396a70/transformed/lifecycle-runtime-ktx-2.6.1/res
+com.example.bythen.app-emoji2-1.4.0-alpha01-62 /Users/jeremysianturi/.gradle/caches/transforms-3/faee02ef11a8f5aa051d895bdaf7cf38/transformed/emoji2-1.4.0-alpha01/res
+com.example.bythen.app-camera-lifecycle-1.2.2-63 /Users/jeremysianturi/.gradle/caches/transforms-3/fe635127a32d36653bb452c351b4d74b/transformed/camera-lifecycle-1.2.2/res
+com.example.bythen.app-resValues-64 /Users/jeremysianturi/Downloads/bythen2 2/app/build/generated/res/resValues/debug
+com.example.bythen.app-packageDebugResources-65 /Users/jeremysianturi/Downloads/bythen2 2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.bythen.app-packageDebugResources-66 /Users/jeremysianturi/Downloads/bythen2 2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.bythen.app-merged_res-67 /Users/jeremysianturi/Downloads/bythen2 2/app/build/intermediates/merged_res/debug
+com.example.bythen.app-debug-68 /Users/jeremysianturi/Downloads/bythen2 2/app/src/debug/res
+com.example.bythen.app-main-69 /Users/jeremysianturi/Downloads/bythen2 2/app/src/main/res
